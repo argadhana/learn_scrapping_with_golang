@@ -1,12 +1,12 @@
-######Belajar scrapping Golang Dasar
+#### Belajar scrapping Golang Dasar
 
-####Golang dan methode Scraping dengan goquery
+#### Golang dan methode Scraping dengan goquery
 
-####Cara menjalankan
+#### Cara menjalankan
 
 = Jangan lupa untuk get module =
 
  - `go get github.com/PuerkitoBio/goquery`
 
-####Run Local
+#### Run Local
  - `go run main.go`
